@@ -1,0 +1,10 @@
+{
+  "name": "grunt-connect-livereload",
+  "version": "0.1.0",
+  "description": "A packaged foo fooer for fooing foos",
+  "devDependencies": {
+    "grunt": "^0.4.4",
+    "grunt-contrib-connect": "^0.7.1",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}
